@@ -15,6 +15,8 @@
 ## Module metadata
 Run `modinfo file.ko` to check this out
 
-MODULE_LICENSE("GPL") -> if not defined, you'll get a warning 
-MODULE_AUTHOR("Girardin")
-MODULE_DESCRIPTION("Simple hello world module")
+`MODULE_LICENSE("GPL")` -> if not defined, you'll get a warning
+
+`MODULE_AUTHOR("Girardin")`
+
+`MODULE_DESCRIPTION("Simple hello world module")`
